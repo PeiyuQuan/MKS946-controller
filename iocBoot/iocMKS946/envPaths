@@ -1,0 +1,7 @@
+epicsEnvSet("IOC","iocMKS946")
+epicsEnvSet("TOP","/home/uwchamber/epics/MKS946")
+epicsEnvSet("SUPPORT","/home/uwchamber/epics/synApps/support")
+epicsEnvSet("ASYN","/home/uwchamber/epics/synApps/support/asyn-master")
+epicsEnvSet("STREAM","/home/uwchamber/epics/synApps/support/StreamDevice-master")
+epicsEnvSet("CALC","/home/uwchamber/epics/synApps/support/calc-master")
+epicsEnvSet("EPICS_BASE","/home/uwchamber/epics/base")
